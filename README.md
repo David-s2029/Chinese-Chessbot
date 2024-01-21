@@ -37,5 +37,5 @@ A Chinese chessbot based on opencv, designed with Intel D435i camera and Dobot M
   - Install using ROS package manager
 
 - **dobot**: Dobot robotic arm ROS package
-  - Installation method depends on the specifics of the Dobot package
+  - Installation method depends on the specifics of the Dobot package. More about this installation please refer to Dobot API Description and ROS Demo on https://www.dobot-robots.com/products/education/magician.html
 
